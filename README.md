@@ -1,0 +1,2 @@
+# CryptoPartyPlanerMocks
+Ein paar Testmocks
